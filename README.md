@@ -81,7 +81,8 @@ Customer_Segmentation_Monthly
       └────────► Customer Value Classification (Python)
                      │
                      ▼
-                 Power BI Dashboard ```
+                 Power BI Dashboard
+```
 
 
 # Dashboard Overview
