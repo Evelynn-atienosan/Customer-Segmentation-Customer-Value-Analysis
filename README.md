@@ -389,13 +389,14 @@ This project demonstrates not only technical proficiency in data engineering and
 
 ### Overview Dashboard
 
-![Overview](<<img width="1006" height="649" alt="image" src="https://github.com/user-attachments/assets/50d7fb91-b70b-48d9-9ba7-96820f3b063a" />
->) 
+<img width="1006" height="649" alt="image" src="https://github.com/user-attachments/assets/50d7fb91-b70b-48d9-9ba7-96820f3b063a" />
+
 
 ### Customer Value Dashboard
 
-![Customer Value](<Screenshots\Customer Value Dashboard.png>)
+<img width="891" height="640" alt="image" src="https://github.com/user-attachments/assets/0b6c24d9-dfd3-4e37-b245-f651382e0cab" />
+
 
 ### RF Customer Analysis
+<img width="1176" height="651" alt="image" src="https://github.com/user-attachments/assets/934ea94d-c139-42d1-bde3-bef93412bd2d" />
 
-![RF Dashboard](<Screenshots\Comprehensive RFM Dashboard.png>)
