@@ -389,7 +389,8 @@ This project demonstrates not only technical proficiency in data engineering and
 
 ### Overview Dashboard
 
-![Overview](<Screenshots\Overview RFM Dashboard.png>)
+![Overview](<<img width="1006" height="649" alt="image" src="https://github.com/user-attachments/assets/50d7fb91-b70b-48d9-9ba7-96820f3b063a" />
+>) 
 
 ### Customer Value Dashboard
 
