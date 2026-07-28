@@ -356,10 +356,10 @@ Helper table generated in SQL formed the basis for monthly customer snapshots, w
 
 # Tools Used
 
-- **SQL** — Data preparation, Data Transformation and helper table creation
-- **Python (Pandas & NumPy)** — Feature engineering and Customer Value classification
-- **Power BI** — Dashboard development and DAX modeling
-- **Kaggle Olist Brazilian E-commerce Dataset** — Source data
+- **SQL** - Data preparation, Data Transformation and helper table creation
+- **Python (Pandas & NumPy)** - Feature engineering and Customer Value classification
+- **Power BI** - Dashboard development and DAX modeling
+- **Kaggle Olist Brazilian E-commerce Dataset** - Source data
 
 ---
 
