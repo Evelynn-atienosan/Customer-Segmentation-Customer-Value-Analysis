@@ -172,9 +172,9 @@ Within every monthly snapshot, customers were ranked according to their **Cumula
 
 Customer Value categories:
 
-- **High Value** — Top 20%
-- **Medium Value** — Next 30%
-- **Low Value** — Bottom 50%
+- **High Value** - Top 20%
+- **Medium Value** - Next 30%
+- **Low Value** - Bottom 50%
 
 Because rankings are recalculated monthly, customers can transition between Customer Value categories as cumulative spending changes.
 
