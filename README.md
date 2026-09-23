@@ -82,6 +82,7 @@ Customer_Segmentation_Monthly
                      │
                      ▼
                  Power BI Dashboard
+```
 
 
 # Dashboard Overview
@@ -171,9 +172,9 @@ Within every monthly snapshot, customers were ranked according to their **Cumula
 
 Customer Value categories:
 
-- **High Value** — Top 20%
-- **Medium Value** — Next 30%
-- **Low Value** — Bottom 50%
+- **High Value** - Top 20%
+- **Medium Value** - Next 30%
+- **Low Value** - Bottom 50%
 
 Because rankings are recalculated monthly, customers can transition between Customer Value categories as cumulative spending changes.
 
@@ -355,10 +356,10 @@ Helper table generated in SQL formed the basis for monthly customer snapshots, w
 
 # Tools Used
 
-- **SQL** — Data preparation, Data Transformation and helper table creation
-- **Python (Pandas & NumPy)** — Feature engineering and Customer Value classification
-- **Power BI** — Dashboard development and DAX modeling
-- **Kaggle Olist Brazilian E-commerce Dataset** — Source data
+- **SQL** - Data preparation, Data Transformation and helper table creation
+- **Python (Pandas & NumPy)** - Feature engineering and Customer Value classification
+- **Power BI** - Dashboard development and DAX modeling
+- **Kaggle Olist Brazilian E-commerce Dataset** - Source data
 
 ---
 
